@@ -1,7 +1,7 @@
 # Hi, I'm GstAmk👋
 
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVzNmVjd3ExNWk3NjE4YWFmb25zcWIzZGk5cGx0MDNhb25yY2NmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsIAdsLeOzYiJ5E7OF/giphy.gif" height="250">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF1a2wza3ZxMjE1bjRtZjRrZml4Z3Y5cGRwZHZscWdoM2xobXd4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/guqGZ4LL0PzjsH4OOm/giphy.gif" height="250">
 </p>
 
 ## About me 💭
