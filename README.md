@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I'm GstAmk 👋
 
 <!--
 **GstAmk/GstAmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me 
+<li> IT student at HEH 
+<li> Currently learning about PHP, MySQL, Linux, Windows Server, ...
+<li> feignon
+
+## Skills 
+
+<img src="https://tenor.com/fr/view/demitra-kalogeras-sunday-kalogeras-demitra-kalogeras-gif-4766699614489097560">
