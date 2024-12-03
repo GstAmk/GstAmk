@@ -1,7 +1,7 @@
 # Hi, I'm GstAmk👋
 
 <p align="center">
-    <img src="https://tenor.com/fr/view/demitra-kalogeras-sunday-kalogeras-demitra-kalogeras-gif-4766699614489097560" width="100px">
+    <img src="/img/demitra-kalogeras.gif" height="100">
 </p>
 
 ## About me 💭
@@ -9,7 +9,7 @@
 <li> 🧑‍🎓 Currently learning about PHP, MySQL, Linux, Windows Server,...
 <li> 🔜 Going to try JS, NodeJS,... in the future
 
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif](https://tenor.com/fr/view/yomil-demitra-demitrayomil-gif-390273139581995459" height = "25">
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = "25">
 
 ### Web developpement
 
