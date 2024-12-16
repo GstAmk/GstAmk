@@ -1,9 +1,5 @@
 # Hi, I'm GstAmk👋
 
-<p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVzNmVjd3ExNWk3NjE4YWFmb25zcWIzZGk5cGx0MDNhb25yY2NmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nsIAdsLeOzYiJ5E7OF/giphy.gif" height="250">
-</p>
-
 ## About me 💭
 <li> 💻 IT student at HEH (Belgium)
 <li> 🧑‍🎓 Currently learning about PHP, MySQL, Linux, Windows Server,...
